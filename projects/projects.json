@@ -1,0 +1,159 @@
+[
+  {
+    "name": "nearby places finder",
+    "desc": " Nearby Place Finder app using Google Places API , Built using Kotlin, XML, SQLite, Firebase,Google Places API.",
+    "image": "nearby places finder",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Manoj-parmar/neayar_by_business.git",
+      "code": "https://github.com/Manoj-parmar/neayar_by_business.git"
+    }
+  },
+  {
+    "name": " Grocery_app",
+    "desc": "Effortlessly manage your grocery list, with automatic price calculation and a user-friendly interface for adding, editing, and viewing items. ",
+    "image": "Grocery",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Manoj-parmar/Grocery_app.git",
+      "code": "https://github.com/Manoj-parmar/Grocery_app.git"
+    }
+  },
+  {
+    "name": "Dice_roller_app",
+    "desc": "Easily roll virtual dice with our app, offering customizable dice types and a user-friendly interface for intuitive gameplay.",
+    "image": "Dice_roller",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Manoj-parmar/Dice_roller_app.git",
+      "code": "https://github.com/Manoj-parmar/Dice_roller_app.git"
+    }
+  },
+  {
+    "name": "Tip_Time",
+    "desc": "Effortlessly calculate and split tips with Tip Time, featuring a simple interface for quick, accurate calculations.",
+    "image": "Tip_Time",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Manoj-parmar/Tip_Time.git",
+      "code": "https://github.com/Manoj-parmar/Tip_Time.git"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  
+  
+  
+  {
+    "name": "Old Websites",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Resistor Color Codes",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "resistercolor",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
